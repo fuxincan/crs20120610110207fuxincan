@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fuxincan.iml" filepath="$PROJECT_DIR$/Fuxincan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fuxincan2/Fuxincan2.iml" filepath="$PROJECT_DIR$/Fuxincan2/Fuxincan2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fuxincan3/Fuxincan3.iml" filepath="$PROJECT_DIR$/Fuxincan3/Fuxincan3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fuxincan4/Fuxincan4.iml" filepath="$PROJECT_DIR$/Fuxincan4/Fuxincan4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fuxincan5/Fuxincan5.iml" filepath="$PROJECT_DIR$/Fuxincan5/Fuxincan5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fuxincan6.7/Fuxincan6.7.iml" filepath="$PROJECT_DIR$/Fuxincan6.7/Fuxincan6.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fuxincan8/Fuxincan8.iml" filepath="$PROJECT_DIR$/Fuxincan8/Fuxincan8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fuxincan9/Fuxincan9.iml" filepath="$PROJECT_DIR$/Fuxincan9/Fuxincan9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket/socket.iml" filepath="$PROJECT_DIR$/socket/socket.iml" />
+    </modules>
+  </component>
+</project>
